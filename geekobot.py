@@ -21,10 +21,10 @@ from string import Template
 
 global bot
 
-bot = telebot.TeleBot('15451245:XXFP7wAfdjfhsdASFJ_KJxfSF-ksjAksj7') #TOKEN
+bot = telebot.TeleBot('161305177:AAEYhrrhxzY4UGUU1NjpSYcHvX22JFnrG_Q') #TOKEN
 app = flask.Flask(__name__)
 
-bot.set_webhook('https://geekobot-pooyaeghbali.rhcloud.com/HOOK')
+bot.set_webhook('https://Shibbot-masoudre11.rhcloud.com/HOOK')
 
 @app.route('/HOOK', methods=['POST'])
 def webhook_handler():
