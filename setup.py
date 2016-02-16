@@ -1,10 +1,10 @@
 from setuptools import setup
 
-setup(name='Geekobot',
+setup(name='ShibBot',
       version='1.0',
       description='OpenShift App',
       author='Pooya Eghbali',
-      author_email='example@example.com',
+      author_email='masoud.re11@yahoo.com.com',
       url='http://www.python.org/sigs/distutils-sig/',
       install_requires=['pyTelegramBotAPI>=1.4.1',
                         'wikipedia>=1.4.0',
