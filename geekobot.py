@@ -21,7 +21,7 @@ from string import Template
 
 global bot
 
-bot = telebot.TeleBot('190724812:AAEU6Yu9JUabRYVFnGAZCtnUqCc3elH4f7c') #TOKEN
+bot = telebot.TeleBot('240672059:AAGEAXv61hlBrb_nnrAaJcmE3m3Z6DvKucM') #TOKEN
 app = flask.Flask(__name__)
 
 bot.set_webhook('https://Shibbot-masoudre11.rhcloud.com/HOOK')
